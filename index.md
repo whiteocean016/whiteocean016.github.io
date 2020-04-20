@@ -1,17 +1,17 @@
 ---
 layout: default
-title: Example
+title: My projects
 ---
 
-# Example project
+# Projects
 
-- [About the project](about)
-- [Publications](publications)
-- [Team](team)
+- [First project](first)
+- [Second project](second)
+- [Third project](third)
 
-# News
+# About
 
-- Some event
-- Another exciting event
-- More news
+- some stuff
+- about me
+- or maybe something else
 
